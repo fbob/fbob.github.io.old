@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Viazzo on Fbob Academic Pages</title>
+    <link>https://fbob.github.io/authors/s.-viazzo/</link>
+    <description>Recent content in S. Viazzo on Fbob Academic Pages</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Fbob 2019</copyright>
+    <lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fbob.github.io/authors/s.-viazzo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Large Eddy Simulation of flow and mass transfer in a plane turbulent impinging jet</title>
+      <link>https://fbob.github.io/publication/beaubert-2003-large/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbob.github.io/publication/beaubert-2003-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Eddy Simulation of flow and mass transfer in a plane turbulent impinging jet</title>
+      <link>https://fbob.github.io/publication/viazzolarge/beaubert-2003-large/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbob.github.io/publication/viazzolarge/beaubert-2003-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Une simulation directe d’ordre élevé d’un écoulement de cavité 3D entraı̂née. 14e Congrès Français de Mécanique</title>
+      <link>https://fbob.github.io/publication/beaubert-1999-simulation/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbob.github.io/publication/beaubert-1999-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Une simulation directe d’ordre élevé d’un écoulement de cavité 3D entraı̂née. 14e Congrès Français de Mécanique</title>
+      <link>https://fbob.github.io/publication/viazzolarge/beaubert-1999-simulation/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbob.github.io/publication/viazzolarge/beaubert-1999-simulation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
