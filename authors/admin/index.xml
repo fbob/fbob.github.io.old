@@ -6,7 +6,7 @@
     <description>Recent content on Fbob Academic Pages</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Fbob 2019</copyright>
+    <copyright>&amp;copy; Fbob {year}</copyright>
     
 	    <atom:link href="https://fbob.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,8 +20,8 @@
       <description>&lt;p&gt;My name is François Beaubert, I&amp;rsquo;m an Assistant Professor in Fluid Mechanics at INSA Hauts de France and LAMIH lab.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;My research interests include turbulence modelization, turbulence control, heat and mass transfer.&lt;/li&gt;
-&lt;li&gt;I teach Fluid Mechanics, Numerical method in Fluid mechanics, Turbulence modelization and Aeroacoustics.&lt;/li&gt;
+&lt;li&gt;My research interests include Turbulence Modelization, Turbulence Control, Swirling Flows, Heat and Mass Transfer.&lt;/li&gt;
+&lt;li&gt;I teach Fluid Mechanics, Numerical Methods in Fluid Mechanics, Turbulence Modelization and Aeroacoustics.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

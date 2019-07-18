@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Fbob Academic Pages</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Fbob 2019</copyright>
+    <copyright>&amp;copy; Fbob {year}</copyright>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://fbob.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
@@ -58,7 +58,7 @@
     </item>
     
     <item>
-      <title>François BEAUBERT</title>
+      <title>François Beaubert</title>
       <link>https://fbob.github.io/authors/francois-beaubert/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
@@ -283,7 +283,7 @@
     </item>
     
     <item>
-      <title>S Viazzo</title>
+      <title>S VIAZZO</title>
       <link>https://fbob.github.io/authors/s-viazzo/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       
@@ -336,8 +336,8 @@
       <description>&lt;p&gt;My name is François Beaubert, I&amp;rsquo;m an Assistant Professor in Fluid Mechanics at INSA Hauts de France and LAMIH lab.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;My research interests include turbulence modelization, turbulence control, heat and mass transfer.&lt;/li&gt;
-&lt;li&gt;I teach Fluid Mechanics, Numerical method in Fluid mechanics, Turbulence modelization and Aeroacoustics.&lt;/li&gt;
+&lt;li&gt;My research interests include Turbulence Modelization, Turbulence Control, Swirling Flows, Heat and Mass Transfer.&lt;/li&gt;
+&lt;li&gt;I teach Fluid Mechanics, Numerical Methods in Fluid Mechanics, Turbulence Modelization and Aeroacoustics.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
