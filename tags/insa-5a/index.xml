@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>INSA-5A on Fbob Academic Pages</title>
+    <link>https://fbob.github.io/tags/insa-5a/</link>
+    <description>Recent content in INSA-5A on Fbob Academic Pages</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Fbob {year}</copyright>
+    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://fbob.github.io/tags/insa-5a/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>INSA 5A</title>
+      <link>https://fbob.github.io/courses/insa-5a/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbob.github.io/courses/insa-5a/</guid>
+      <description>&lt;p&gt;These are the classes I give at INSA Hauts de France.&lt;/p&gt;
+
+&lt;p&gt;Courses documents I teach in INSA-5A are available here:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CFD&lt;/li&gt;
+&lt;li&gt;Introduction to Turbulence Modeling&lt;/li&gt;
+&lt;li&gt;Aeroacoustics&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
