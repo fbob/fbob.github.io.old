@@ -1,79 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Fbob Academic Pages</title>
+    <title>Tags | Fbob Academic Pages</title>
     <link>https://fbob.github.io/tags/</link>
-    <description>Recent content in Tags on Fbob Academic Pages</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Fbob {year}</copyright>
-    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://fbob.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>INSA-1A</title>
-      <link>https://fbob.github.io/tags/insa-1a/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fbob.github.io/tags/insa-1a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>INSA-2A</title>
-      <link>https://fbob.github.io/tags/insa-2a/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fbob.github.io/tags/insa-2a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>INSA-3A</title>
-      <link>https://fbob.github.io/tags/insa-3a/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fbob.github.io/tags/insa-3a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>INSA-4A</title>
-      <link>https://fbob.github.io/tags/insa-4a/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fbob.github.io/tags/insa-4a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>INSA-5A</title>
-      <link>https://fbob.github.io/tags/insa-5a/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fbob.github.io/tags/insa-5a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://fbob.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://fbob.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://fbob.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://fbob.github.io/tags/demo/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://fbob.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Fbob 2018</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tags</title>
+      <link>https://fbob.github.io/tags/</link>
+    </image>
     
   </channel>
 </rss>
